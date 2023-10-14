@@ -6,7 +6,7 @@ let Details=()=>{
             <div className="reg">
                 <div className="reg1">
                     <img src={logo} alt="img"/>
-                    <h1>PUSHPA &nbsp;&nbsp;<i class="fa-solid fa-heart fa-beat"></i> &nbsp;&nbsp;FASHIONS</h1>
+                    <h1>DKSRA &nbsp;&nbsp;<i class="fa-solid fa-heart fa-beat"></i> &nbsp;&nbsp;FASHIONS</h1>
                     <p>Style is a way to say who you are without having to speak.Some of the most iconic designers of all time are not just revolutionary with their designs, but also great wordsmiths</p>
                     <div className="btn">
                         <button>Knowmore</button>

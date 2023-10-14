@@ -2,7 +2,7 @@ import './Foot.css'
 let Foot=()=>{
     return(
       <div className="foot">
-        @copy rights
+        @copy rights DKSRA.COM
       </div>
     )
   }
